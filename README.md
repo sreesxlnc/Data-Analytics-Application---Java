@@ -1,5 +1,5 @@
 #### Data-Analytics-Application
-A web application to perform statistical data analysis
+A web application to perform statistical data analysis   (Please Refer to Users' Guide.docx for detailed information) 
 
  Home page with user’s guide and programmer’s documentation links. 
 
